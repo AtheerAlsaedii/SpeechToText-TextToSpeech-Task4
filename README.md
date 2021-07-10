@@ -8,3 +8,4 @@ Repository folders :
 - TextToSpeech --> Part2
 
 Each folder contains it's own files.
+SpeechToText folder:
