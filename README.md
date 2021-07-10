@@ -4,5 +4,6 @@ This repository is contains convert speech to text & text to speech project , th
 2. Convert text to speech .
 
 Repository folders :
-- SpeechToText
-- TextToSpeech
+- SpeechToText --> Part1
+- TextToSpeech --> Part2
+Each folder contains it's own files.
