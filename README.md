@@ -10,7 +10,7 @@ Repository folders :
 Each folder contains it's own files.
 
 SpeechToText folder :
-1. watson-streaming-stt folder --> has own README.md file.
+1. watson-streaming-stt folder .
 2. SpeechToText-Result.txt --> OutPut file .
 
 TextToSpeech folder :
